@@ -4,14 +4,14 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467'],
-  ['5212411719888'],
-  ['5212411453522'],
+  ['918617845264', '🌙🌼🆁︎🆄︎🅿︎❤🍂 ', true],
+  ['918617845264'],
+  ['918609977592'],
+  ['917319457766'],
 ]
 
 global.mods = [] 
-global.prems = ['5212411347465'], 
+global.prems = ['918617845264'], 
 global.prems = [] 
 global.APIs = { 
   amel: 'https://melcanz.com',
@@ -67,7 +67,7 @@ global.APIKeys = {
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = '☘️𝐓𝐇𝐄_𝐌𝐈𝐊𝐔_𝐁𝐎𝐓📚'
-global.author = '🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈📔'
+global.author = '🌱🌙🌼🆁︎🆄︎🅿︎❤🍂📔'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -80,19 +80,19 @@ global.version = vs
 global.gt = '☘️𝐓𝐇𝐄_𝐌𝐈𝐊𝐔_𝐁𝐎𝐓📚'
 global.hadesbot = gt
 
-global.yt = 'https://youtu.be/aPu9wQi-z8U'
+global.yt = 'YouTube|Rup❤'
 global.youtube = yt
 
-global.ig = 'https://www.instagram'
+global.ig = 'https://www.instagram/__rxx9__'
 global.hadesig = ig
 
-global.md = 'https://github.com/Yovanihades1212/MIKU_BOT.git'
+global.md = 'https://github.com'
 global.hadesbot = md
 
-global.nn = 'https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0'
+global.nn = '❤'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ'
+global.nnn = '❤'
 global.nnngrupo = nnn
 
 global.paypal = 'https://pay'
@@ -129,7 +129,7 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '📚𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈|𝐓𝐇𝐄_𝐌𝐈𝐊𝐔_𝐁𝐎𝐓🍀'
+global.wm = '📚🌙🌼🆁︎🆄︎🅿︎❤🍂|𝐓𝐇𝐄_𝐌𝐈𝐊𝐔_𝐁𝐎𝐓🍀'
 global.igfg = '📚𝐓𝐇𝐄_𝐌𝐈𝐊𝐔_𝐁𝐎𝐓☘️'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
