@@ -93,7 +93,7 @@ global.nn = '0'
 global.nngrupo = nn
 
 global.nnn = '0'
-global.nnngrupo = nn
+global.nnngrupo = nnn
 
 global.paypal = 'https://pay'
 global.donar = paypal
